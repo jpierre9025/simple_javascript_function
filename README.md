@@ -1,0 +1,2 @@
+# simple_javascript_function
+javascript function
