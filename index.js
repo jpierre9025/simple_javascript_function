@@ -1,6 +1,4 @@
-<string>
 function demo (name, height, country) {
-    alert("What is your name, height and country you are from?")
+    alert ('name' + "  " + 'height' + "  " +'country')
 }
-demo("Jay", "6'1", "USA");
-</string>
+demo("Jay", "6'1", "USA")
